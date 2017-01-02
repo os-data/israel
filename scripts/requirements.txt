@@ -1,0 +1,7 @@
+ipython
+ipdb
+click
+polib
+txlib
+ckanapi
+goodtables

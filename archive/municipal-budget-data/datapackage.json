@@ -1,0 +1,45 @@
+{
+    "name": "israeli-municipal-budget-data",
+    "title": "Israeli Municipal Budget Data",
+    "description": "Budget data for each municipality in Israel, as published by the Central Bureau of Statistics. This data features planned and executed budgets for the years 2005 - 2013, at the top two levels of the budget tree.",
+    "homepage": "https://github.com/pwalsh/israeli-municipal-budget-data",
+    "translations_homepage": "https://www.transifex.com/projects/p/israeli-municipal-budget-data/",
+    "version": "1.0.0",
+    "license": "PDDL-1.0",
+    "datapackage_version": "1.0-beta.10",
+    "maintainers": [
+        {
+            "name": "Paul Walsh",
+            "email": "paulywalsh@gmail.com",
+            "web": "http://pwalsh.me/"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Paul Walsh",
+            "email": "paulywalsh@gmail.com",
+            "web": "http://pwalsh.me/"
+        },
+        {
+            "name": "Yogev Sharvit"
+        },
+        {
+            "name": "Ido Ivri"
+        }
+    ],
+    "keywords": [
+        "open data",
+        "open gov",
+        "open israel",
+        "open municipalities",
+        "open budgets",
+        "open spending"
+    ],
+    "sources": [
+        {
+            "name": "Central Bureau of Statistics",
+            "web": "http://www1.cbs.gov.il/"
+        }
+    ],
+    "resources": []
+}

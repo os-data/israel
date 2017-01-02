@@ -1,0 +1,40 @@
+{
+    "name": "israeli-municipal-statistics",
+    "title": "Israeli Municipal Statistics",
+    "description": "",
+    "homepage": "https://github.com/pwalsh/israeli-municipal-statistics",
+    "translations_homepage": "https://www.transifex.com/projects/p/israeli-municipal-statistics/",
+    "version": "1.0.0",
+    "license": "PDDL-1.0",
+    "datapackage_version": "1.0-beta.10",
+    "maintainers": [
+        {
+            "name": "Paul Walsh",
+            "email": "paulywalsh@gmail.com",
+            "web": "http://pwalsh.me/"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Paul Walsh",
+            "email": "paulywalsh@gmail.com",
+            "web": "http://pwalsh.me/"
+        },
+        {
+            "name": "Ido Ivri"
+        },
+        {
+            "name": "Yogev Sharvit"
+        }
+    ],
+    "keywords": [
+        "open data",
+        "open gov",
+        "open israel",
+        "open municipalities",
+        "open budgets",
+        "open spending"
+    ],
+    "sources": [],
+    "resources": []
+}

@@ -1,0 +1,64 @@
+{
+    "name": "israeli-municipal-budget-tree",
+    "title": "Israeli Municipal Budget Tree",
+    "description": "The data describes the official budget tree as published by the Ministry of Interior. The tree is valid for years 1994 to present. All municipal bodies in Israel are required by law to publish yearly budgets that comply with this tree. The specific implementation details are quite a bit more complicated, though.",
+    "homepage": "https://github.com/pwalsh/israeli-municipal-budget-tree",
+    "translations_homepage": "https://www.transifex.com/projects/p/israeli-municipal-budget-tree/",
+    "version": "1.0.0",
+    "license": "PDDL-1.0",
+    "datapackage_version": "1.0-beta.10",
+    "maintainers": [
+        {
+            "name": "Paul Walsh",
+            "email": "paulywalsh@gmail.com",
+            "web": "http://pwalsh.me/"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Paul Walsh",
+            "email": "paulywalsh@gmail.com",
+            "web": "http://pwalsh.me/"
+        },
+        {
+            "name": "Yehonatan Daniv"
+        },
+        {
+            "name": "Ido Ivri"
+        },
+        {
+            "name": "Hanna Kaminski"
+        },
+        {
+            "name": "Hadas Eyal"
+        },
+        {
+            "name": "Ram Ezrach"
+        },
+        {
+            "name": "Amir Aharoni"
+        },
+        {
+            "name": "Gladis Batshon"
+        }
+    ],
+    "keywords": [
+        "open data",
+        "open gov",
+        "open israel",
+        "open municipalities",
+        "open budgets",
+        "open spending"
+    ],
+    "sources": [
+        {
+            "name": "Ministry of Interior - Background and explanation of local authority budgets",
+            "web": "http://www.moin.gov.il/Subjects/TaktzivRagil/Pages/VaadatHacsafim.aspx"
+        },
+        {
+           "name": "Appendix 4 - Structure of local authority budgets",
+           "web": "http://www.moin.gov.il/SubjectDocuments/Nispach4.pdf"
+        }
+    ],
+    "resources": []
+}

@@ -1,0 +1,55 @@
+{
+    "name": "israeli-government-structure",
+    "title": "Israeli Government Structure",
+    "description": "",
+    "homepage": "https://github.com/pwalsh/israeli-government-structure",
+    "translations_homepage": "https://www.transifex.com/projects/p/israeli-government-structure/",
+    "version": "1.0.0",
+    "license": "PDDL-1.0",
+    "datapackage_version": "1.0-beta.10",
+    "maintainers": [
+        {
+            "name": "Paul Walsh",
+            "email": "paulywalsh@gmail.com",
+            "web": "http://pwalsh.me/"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Paul Walsh",
+            "email": "paulywalsh@gmail.com",
+            "web": "http://pwalsh.me/"
+        },
+        {
+            "name": "Yehonatan Daniv"
+        },
+        {
+            "name": "Ido Ivri"
+        },
+        {
+            "name": "Hanna Kaminski"
+        },
+        {
+            "name": "Hadas Eyal"
+        },
+        {
+            "name": "Ram Ezrach"
+        },
+        {
+            "name": "Amir Aharoni"
+        },
+        {
+            "name": "Gladis Batshon"
+        }
+    ],
+    "keywords": [
+        "open data",
+        "open gov",
+        "open israel",
+        "open municipalities",
+        "open budgets",
+        "open spending"
+    ],
+    "sources": [],
+    "resources": []
+}
